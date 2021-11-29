@@ -1,6 +1,3 @@
-index.md
-
-
 # Small Gimmick Game
 
 
