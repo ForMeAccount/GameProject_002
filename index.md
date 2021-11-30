@@ -9,10 +9,8 @@
 |1|타이틀|<img src="./img/title.PNG" width="400">|
 |2|게임클리어|<img src="./img/gameclear.PNG" width="400">|
 |3|게임오버|<img src="./img/gameover.PNG" width="400">|
-
-### 1. 타이틀 : 첫 게임 스타트 시 호출되는 Scene입니다. 기능으로는 Ball, Bingo, Pizza 3개의 버튼으로 각 Scene을 호출하여 보내줍니다.
-
-### 2. 게임 클리어, 오버 : 각 Scene이 호출 될 시에 해당하는 사운드가 호출되며 Menu버튼으로 타이틀로 이동합니다.
+## 1. 타이틀 : 첫 게임 스타트 시 호출되는 Scene입니다. 기능으로는 Ball, Bingo, Pizza 3개의 버튼으로 각 Scene을 호출하여 보내줍니다.
+## 2. 게임 클리어, 오버 : 각 Scene이 호출 될 시에 해당하는 사운드가 호출되며 Menu버튼으로 타이틀로 이동합니다.
 
 |오디오|사운드|
 |:---:|:---:|
