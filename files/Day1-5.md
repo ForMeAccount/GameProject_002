@@ -3,7 +3,7 @@
 
 ## 기획 단계
 
-[첨부파일 링크](https://nbviewer.org/github/ForMeAccount/GameProject_002.github.io/blob/main/reference/1588026_%EC%9C%A0%EC%8A%B9%ED%9A%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B6%94%EA%B0%80.pdf)
+[기획서 링크](https://nbviewer.org/github/ForMeAccount/GameProject_002.github.io/blob/main/reference/1588026_%EC%9C%A0%EC%8A%B9%ED%9A%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B6%94%EA%B0%80.pdf)
 
 ## Player 구현
 
