@@ -55,4 +55,9 @@
 
 # 일차 별 진행상황
 
-### [1주차](files/Day1.md)
+### [1-5주차](files/Day1-5.md)
+### [6주차](files/Day6.md)
+### [7주차](files/Day7.md)
+### [8-11주차](files/Day8-11.md)
+### [12주차](files/Day12.md)
+### [13주차](files/Day13.md)
