@@ -6,7 +6,7 @@
 [배경 사진]
 
 
-###[ball]
+### [ball]
 
     public Transform player;
     public Material[] change_ball_Mat;
@@ -89,7 +89,7 @@
     
     
     
-    ### [door]
+### [door]
     
     public Material[] door_Change_Mat;
 
