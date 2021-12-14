@@ -13,7 +13,7 @@
 
 
 
-[] 빙고 기초 맵 사진<"./img/Biakiss_Before.PNG">
-[]후<"./img/Biakiss_After.PNG">
-[] pizza 기초 맵 사진<"./img/Pizza_Before.PNG">
-[]후<"./img/Pizza_After.PNG">
+[] 빙고 기초 맵 사진<img src = "./img/Biakiss_Before.PNG">
+[]후<img src = "./img/Biakiss_After.PNG">
+[] pizza 기초 맵 사진<img src = "./img/Pizza_Before.PNG">
+[]후<img src = "./img/Pizza_After.PNG">
