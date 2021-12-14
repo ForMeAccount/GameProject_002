@@ -15,5 +15,5 @@
 
 [] 빙고 기초 맵 사진<img src = "./img/Biakiss_Before.PNG">
 []후<img src = "./img/Biakiss_After.PNG">
-[] pizza 기초 맵 사진<img src = "./img/Pizza_Before.PNG">
-[]후<img src = "./img/Pizza_After.PNG">
+[] pizza 기초 맵 사진<img src = "./img/Bingo_Before.PNG">
+[]후<img src = "./img/Bingo_After.PNG">
